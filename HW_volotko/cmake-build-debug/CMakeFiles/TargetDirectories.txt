@@ -1,0 +1,3 @@
+/home/code/CLionProjects/HW_volotko/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/code/CLionProjects/HW_volotko/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/code/CLionProjects/HW_volotko/cmake-build-debug/CMakeFiles/HW_volotko.dir

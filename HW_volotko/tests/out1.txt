@@ -1,0 +1,52 @@
+Filled container:
+Container contains 50 elements.
+0: It is sphere: R = 75, Density = 17, Volume = 1.76715e+06
+1: It is sphere: R = 35, Density = 24, Volume = 179594
+2: It is regular tetrahedron: A = 22, Density = 73, Volume = 1254.88
+3: It is sphere: R = 90, Density = 13, Volume = 3.05363e+06
+4: It is sphere: R = 47, Density = 70, Volume = 434893
+5: It is parallelepiped: A = 72, B = 71, C = 44, Density = 27, Volume = 224928
+6: It is parallelepiped: A = 50, B = 74, C = 23, Density = 23, Volume = 85100
+7: It is sphere: R = 85, Density = 1, Volume = 2.57244e+06
+8: It is parallelepiped: A = 53, B = 64, C = 14, Density = 48, Volume = 47488
+9: It is sphere: R = 3, Density = 27, Volume = 113.097
+10: It is sphere: R = 79, Density = 13, Volume = 2.06524e+06
+11: It is parallelepiped: A = 35, B = 75, C = 98, Density = 86, Volume = 257250
+12: It is regular tetrahedron: A = 25, Density = 22, Volume = 1841.42
+13: It is regular tetrahedron: A = 47, Density = 90, Volume = 12235.7
+14: It is parallelepiped: A = 14, B = 35, C = 92, Density = 86, Volume = 45080
+15: It is sphere: R = 73, Density = 36, Volume = 1.62951e+06
+16: It is sphere: R = 19, Density = 20, Volume = 28730.9
+17: It is sphere: R = 84, Density = 72, Volume = 2.48271e+06
+18: It is regular tetrahedron: A = 86, Density = 50, Volume = 74959.9
+19: It is parallelepiped: A = 17, B = 47, C = 33, Density = 62, Volume = 26367
+20: It is sphere: R = 30, Density = 3, Volume = 113097
+21: It is regular tetrahedron: A = 6, Density = 25, Volume = 25.4558
+22: It is regular tetrahedron: A = 5, Density = 66, Volume = 14.7314
+23: It is sphere: R = 18, Density = 51, Volume = 24429
+24: It is parallelepiped: A = 5, B = 77, C = 74, Density = 38, Volume = 28490
+25: It is sphere: R = 45, Density = 25, Volume = 381704
+26: It is sphere: R = 28, Density = 48, Volume = 91952.3
+27: It is parallelepiped: A = 66, B = 11, C = 9, Density = 50, Volume = 6534
+28: It is regular tetrahedron: A = 41, Density = 34, Volume = 8122.42
+29: It is regular tetrahedron: A = 22, Density = 36, Volume = 1254.88
+30: It is sphere: R = 80, Density = 12, Volume = 2.14466e+06
+31: It is regular tetrahedron: A = 36, Density = 78, Volume = 5498.46
+32: It is parallelepiped: A = 53, B = 17, C = 78, Density = 28, Volume = 70278
+33: It is regular tetrahedron: A = 52, Density = 9, Volume = 16570.8
+34: It is regular tetrahedron: A = 48, Density = 85, Volume = 13033.4
+35: It is sphere: R = 27, Density = 33, Volume = 82448
+36: It is sphere: R = 92, Density = 34, Volume = 3.26176e+06
+37: It is parallelepiped: A = 77, B = 5, C = 23, Density = 96, Volume = 8855
+38: It is sphere: R = 44, Density = 13, Volume = 356818
+39: It is regular tetrahedron: A = 75, Density = 24, Volume = 49718.4
+40: It is parallelepiped: A = 10, B = 81, C = 59, Density = 1, Volume = 47790
+41: It is regular tetrahedron: A = 36, Density = 14, Volume = 5498.46
+42: It is sphere: R = 39, Density = 23, Volume = 248475
+43: It is parallelepiped: A = 86, B = 91, C = 66, Density = 7, Volume = 516516
+44: It is sphere: R = 40, Density = 13, Volume = 268083
+45: It is regular tetrahedron: A = 70, Density = 56, Volume = 40422.9
+46: It is sphere: R = 44, Density = 33, Volume = 356818
+47: It is sphere: R = 88, Density = 45, Volume = 2.85454e+06
+48: It is parallelepiped: A = 62, B = 73, C = 60, Density = 20, Volume = 271560
+49: It is regular tetrahedron: A = 18, Density = 72, Volume = 687.308

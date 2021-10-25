@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/HW_volotko.dir/main.cpp.o CMakeFiles/HW_volotko.dir/container.cpp.o CMakeFiles/HW_volotko.dir/Shape.cpp.o CMakeFiles/HW_volotko.dir/sphere.cpp.o CMakeFiles/HW_volotko.dir/regularTetrahedron.cpp.o CMakeFiles/HW_volotko.dir/parallelepiped.cpp.o -o HW_volotko 

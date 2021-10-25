@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/code/CLionProjects/HW_volotko/Shape.h
+fstream
+-
+
+/home/code/CLionProjects/HW_volotko/container.h
+Shape.h
+/home/code/CLionProjects/HW_volotko/Shape.h
+fstream
+-
+
+/home/code/CLionProjects/HW_volotko/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+cstring
+-
+container.h
+/home/code/CLionProjects/HW_volotko/container.h
+
